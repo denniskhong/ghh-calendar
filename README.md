@@ -9,8 +9,8 @@
 ## 📄 The Paper
 This repository contains the reference implementation for the research paper:
 
-> **The Greek-Hanke-Henry Permanent Calendar: A Proposal for Universal Calendar Reform** > *Dennis WK Khong & Gemini 3 Pro* > [Link to arXiv Paper] (Coming Soon)
-
+> **The Greek-Hanke-Henry Permanent Calendar** > *Dennis W. K Khong & Gemini 3 Pro* > [Link to arXiv Paper] (Coming Soon)
+.
 ## 📅 What is the GHH System?
 
 The **Greek-Hanke-Henry (GHH)** system is a modification of the Hanke-Henry Permanent Calendar (HHPC). It solves the "Uncanny Valley" problem of calendar reform by replacing traditional Latin month names (January, February...) with the Greek Alphabet (Alpha through Mu).
