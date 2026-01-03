@@ -132,7 +132,7 @@ class GreekHankeHenryCalendar:
             print(f"\n{WARNING_PROLEPTIC}")
 
         print(f"\n{'#'*90}")
-        print(f"   GREEK-HANKE-HENRY PERMANENT CALENDAR (GHH) :: YEAR {year}")
+        print(f"   GREEK-HANKE-HENRY PERMANENT CALENDAR (GHH) : YEAR {year}")
         print(f"{'#'*90}")
 
         try:
